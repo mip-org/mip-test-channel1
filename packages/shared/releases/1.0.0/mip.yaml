@@ -1,0 +1,11 @@
+name: shared
+description: "Test package shared (test-channel1 version)"
+version: "1.0.0"
+license: MIT
+dependencies: []
+
+addpaths:
+  - path: "."
+
+builds:
+  - architectures: [any]

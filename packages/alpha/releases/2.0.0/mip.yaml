@@ -1,0 +1,11 @@
+name: alpha
+description: "Test package alpha (test-channel1)"
+version: "2.0.0"
+license: MIT
+dependencies: []
+
+addpaths:
+  - path: "."
+
+builds:
+  - architectures: [any]

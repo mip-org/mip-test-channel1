@@ -1,0 +1,11 @@
+name: gamma
+description: "Test package gamma with same-channel FQN dependency (test-channel1)"
+version: "1.0.0"
+license: MIT
+dependencies: [mip-org/test-channel1/alpha]
+
+addpaths:
+  - path: "."
+
+builds:
+  - architectures: [any]
