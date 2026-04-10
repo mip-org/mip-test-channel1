@@ -1,0 +1,11 @@
+name: chain_end
+description: "End of dependency chain, no dependencies (test-channel1)"
+version: "1.0.0"
+license: MIT
+dependencies: []
+
+addpaths:
+  - path: "."
+
+builds:
+  - architectures: [any]

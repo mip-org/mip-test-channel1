@@ -1,0 +1,11 @@
+name: delta
+description: "Package with FQN dependency on alpha (test-channel1)"
+version: "1.0.0"
+license: MIT
+dependencies: [mip-org/test-channel1/alpha]
+
+addpaths:
+  - path: "."
+
+builds:
+  - architectures: [any]

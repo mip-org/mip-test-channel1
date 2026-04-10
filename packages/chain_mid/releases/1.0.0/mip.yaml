@@ -1,0 +1,11 @@
+name: chain_mid
+description: "Middle of dependency chain, depends on chain_end (test-channel1)"
+version: "1.0.0"
+license: MIT
+dependencies: [mip-org/test-channel1/chain_end]
+
+addpaths:
+  - path: "."
+
+builds:
+  - architectures: [any]

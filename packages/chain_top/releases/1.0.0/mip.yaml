@@ -1,0 +1,11 @@
+name: chain_top
+description: "Top of dependency chain, depends on chain_mid (test-channel1)"
+version: "1.0.0"
+license: MIT
+dependencies: [mip-org/test-channel1/chain_mid]
+
+addpaths:
+  - path: "."
+
+builds:
+  - architectures: [any]

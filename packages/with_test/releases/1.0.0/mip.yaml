@@ -1,0 +1,12 @@
+name: with_test
+description: "Package with a test script (test-channel1)"
+version: "1.0.0"
+license: MIT
+dependencies: []
+
+addpaths:
+  - path: "."
+
+builds:
+  - architectures: [any]
+    test_script: "run_test.m"
