@@ -1,8 +1,8 @@
 name: core_dep
-description: "Test package with bare-name dependency on core channel"
+description: "Test package depending on chebfun (fully qualified) in the core channel"
 version: "1.0.0"
 license: MIT
-dependencies: [chebfun]
+dependencies: [mip-org/core/chebfun]
 
 paths:
   - path: "."
