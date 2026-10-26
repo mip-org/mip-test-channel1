@@ -1,97 +1,97 @@
 {
-  "generated": "2026-10-25T11:54:04Z",
+  "generated": "2026-10-26T13:26:19Z",
   "repo": "mip-org/mip-test-channel1",
-  "total_lifetime_downloads": 4823,
+  "total_lifetime_downloads": 4882,
   "assets": {
     "alpha-1.0.0/alpha-1.0.0-any.mhl": {
-      "lifetime": 482,
-      "base": 0,
-      "last_raw": 482,
-      "asset_id": 462225420,
-      "created_at": "2026-06-30T14:23:26Z",
-      "first_seen": "2026-07-01T10:30:03Z",
-      "updated": "2026-10-25T11:54:04Z"
-    },
-    "alpha-2.0.0/alpha-2.0.0-any.mhl": {
       "lifetime": 490,
       "base": 0,
       "last_raw": 490,
+      "asset_id": 462225420,
+      "created_at": "2026-06-30T14:23:26Z",
+      "first_seen": "2026-07-01T10:30:03Z",
+      "updated": "2026-10-26T13:26:19Z"
+    },
+    "alpha-2.0.0/alpha-2.0.0-any.mhl": {
+      "lifetime": 501,
+      "base": 0,
+      "last_raw": 501,
       "asset_id": 462225390,
       "created_at": "2026-06-30T14:23:24Z",
       "first_seen": "2026-07-01T10:30:03Z",
-      "updated": "2026-10-25T11:54:04Z"
+      "updated": "2026-10-26T13:26:19Z"
     },
     "chain_end-1.0.0/chain_end-1.0.0-any.mhl": {
-      "lifetime": 481,
+      "lifetime": 485,
       "base": 0,
-      "last_raw": 481,
+      "last_raw": 485,
       "asset_id": 462225875,
       "created_at": "2026-06-30T14:24:05Z",
       "first_seen": "2026-07-01T10:30:03Z",
-      "updated": "2026-10-25T11:54:04Z"
+      "updated": "2026-10-26T13:26:19Z"
     },
     "chain_mid-1.0.0/chain_mid-1.0.0-any.mhl": {
-      "lifetime": 481,
+      "lifetime": 485,
       "base": 0,
-      "last_raw": 481,
+      "last_raw": 485,
       "asset_id": 462225525,
       "created_at": "2026-06-30T14:23:33Z",
       "first_seen": "2026-07-01T10:30:03Z",
-      "updated": "2026-10-25T11:54:04Z"
+      "updated": "2026-10-26T13:26:19Z"
     },
     "chain_top-1.0.0/chain_top-1.0.0-any.mhl": {
-      "lifetime": 480,
+      "lifetime": 484,
       "base": 0,
-      "last_raw": 480,
+      "last_raw": 484,
       "asset_id": 462225959,
       "created_at": "2026-06-30T14:24:12Z",
       "first_seen": "2026-07-01T10:30:03Z",
-      "updated": "2026-10-25T11:54:04Z"
+      "updated": "2026-10-26T13:26:19Z"
     },
     "core_dep-1.0.0/core_dep-1.0.0-any.mhl": {
-      "lifetime": 477,
-      "base": 0,
-      "last_raw": 477,
-      "asset_id": 462235125,
-      "created_at": "2026-06-30T14:36:07Z",
-      "first_seen": "2026-07-01T10:30:03Z",
-      "updated": "2026-10-25T11:54:04Z"
-    },
-    "delta-1.0.0/delta-1.0.0-any.mhl": {
-      "lifetime": 482,
-      "base": 0,
-      "last_raw": 482,
-      "asset_id": 462225925,
-      "created_at": "2026-06-30T14:24:09Z",
-      "first_seen": "2026-07-01T10:30:03Z",
-      "updated": "2026-10-25T11:54:04Z"
-    },
-    "gamma-1.0.0/gamma-1.0.0-any.mhl": {
-      "lifetime": 486,
-      "base": 0,
-      "last_raw": 486,
-      "asset_id": 462225858,
-      "created_at": "2026-06-30T14:24:04Z",
-      "first_seen": "2026-07-01T10:30:03Z",
-      "updated": "2026-10-25T11:54:04Z"
-    },
-    "shared-1.0.0/shared-1.0.0-any.mhl": {
-      "lifetime": 483,
-      "base": 0,
-      "last_raw": 483,
-      "asset_id": 462226075,
-      "created_at": "2026-06-30T14:24:23Z",
-      "first_seen": "2026-07-01T10:30:03Z",
-      "updated": "2026-10-25T11:54:04Z"
-    },
-    "with_test-1.0.0/with_test-1.0.0-any.mhl": {
       "lifetime": 481,
       "base": 0,
       "last_raw": 481,
+      "asset_id": 462235125,
+      "created_at": "2026-06-30T14:36:07Z",
+      "first_seen": "2026-07-01T10:30:03Z",
+      "updated": "2026-10-26T13:26:19Z"
+    },
+    "delta-1.0.0/delta-1.0.0-any.mhl": {
+      "lifetime": 486,
+      "base": 0,
+      "last_raw": 486,
+      "asset_id": 462225925,
+      "created_at": "2026-06-30T14:24:09Z",
+      "first_seen": "2026-07-01T10:30:03Z",
+      "updated": "2026-10-26T13:26:19Z"
+    },
+    "gamma-1.0.0/gamma-1.0.0-any.mhl": {
+      "lifetime": 498,
+      "base": 0,
+      "last_raw": 498,
+      "asset_id": 462225858,
+      "created_at": "2026-06-30T14:24:04Z",
+      "first_seen": "2026-07-01T10:30:03Z",
+      "updated": "2026-10-26T13:26:19Z"
+    },
+    "shared-1.0.0/shared-1.0.0-any.mhl": {
+      "lifetime": 487,
+      "base": 0,
+      "last_raw": 487,
+      "asset_id": 462226075,
+      "created_at": "2026-06-30T14:24:23Z",
+      "first_seen": "2026-07-01T10:30:03Z",
+      "updated": "2026-10-26T13:26:19Z"
+    },
+    "with_test-1.0.0/with_test-1.0.0-any.mhl": {
+      "lifetime": 485,
+      "base": 0,
+      "last_raw": 485,
       "asset_id": 462226522,
       "created_at": "2026-06-30T14:24:55Z",
       "first_seen": "2026-07-01T10:30:03Z",
-      "updated": "2026-10-25T11:54:04Z"
+      "updated": "2026-10-26T13:26:19Z"
     }
   }
 }
