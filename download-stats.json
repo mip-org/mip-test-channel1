@@ -1,97 +1,97 @@
 {
-  "generated": "2026-11-10T15:07:34Z",
+  "generated": "2026-11-11T14:38:17Z",
   "repo": "mip-org/mip-test-channel1",
-  "total_lifetime_downloads": 5188,
+  "total_lifetime_downloads": 5309,
   "assets": {
     "alpha-1.0.0/alpha-1.0.0-any.mhl": {
-      "lifetime": 532,
+      "lifetime": 544,
       "base": 0,
-      "last_raw": 532,
+      "last_raw": 544,
       "asset_id": 462225420,
       "created_at": "2026-06-30T14:23:26Z",
       "first_seen": "2026-07-01T10:30:03Z",
-      "updated": "2026-11-10T15:07:34Z"
+      "updated": "2026-11-11T14:38:17Z"
     },
     "alpha-2.0.0/alpha-2.0.0-any.mhl": {
-      "lifetime": 568,
+      "lifetime": 581,
       "base": 0,
-      "last_raw": 568,
+      "last_raw": 581,
       "asset_id": 462225390,
       "created_at": "2026-06-30T14:23:24Z",
       "first_seen": "2026-07-01T10:30:03Z",
-      "updated": "2026-11-10T15:07:34Z"
+      "updated": "2026-11-11T14:38:17Z"
     },
     "chain_end-1.0.0/chain_end-1.0.0-any.mhl": {
-      "lifetime": 510,
+      "lifetime": 522,
       "base": 0,
-      "last_raw": 510,
+      "last_raw": 522,
       "asset_id": 462225875,
       "created_at": "2026-06-30T14:24:05Z",
       "first_seen": "2026-07-01T10:30:03Z",
-      "updated": "2026-11-10T15:07:34Z"
+      "updated": "2026-11-11T14:38:17Z"
     },
     "chain_mid-1.0.0/chain_mid-1.0.0-any.mhl": {
-      "lifetime": 509,
+      "lifetime": 521,
       "base": 0,
-      "last_raw": 509,
+      "last_raw": 521,
       "asset_id": 462225525,
       "created_at": "2026-06-30T14:23:33Z",
       "first_seen": "2026-07-01T10:30:03Z",
-      "updated": "2026-11-10T15:07:34Z"
+      "updated": "2026-11-11T14:38:17Z"
     },
     "chain_top-1.0.0/chain_top-1.0.0-any.mhl": {
-      "lifetime": 507,
+      "lifetime": 519,
       "base": 0,
-      "last_raw": 507,
+      "last_raw": 519,
       "asset_id": 462225959,
       "created_at": "2026-06-30T14:24:12Z",
       "first_seen": "2026-07-01T10:30:03Z",
-      "updated": "2026-11-10T15:07:34Z"
+      "updated": "2026-11-11T14:38:17Z"
     },
     "core_dep-1.0.0/core_dep-1.0.0-any.mhl": {
-      "lifetime": 501,
+      "lifetime": 513,
       "base": 0,
-      "last_raw": 501,
+      "last_raw": 513,
       "asset_id": 462235125,
       "created_at": "2026-06-30T14:36:07Z",
       "first_seen": "2026-07-01T10:30:03Z",
-      "updated": "2026-11-10T15:07:34Z"
+      "updated": "2026-11-11T14:38:17Z"
     },
     "delta-1.0.0/delta-1.0.0-any.mhl": {
-      "lifetime": 506,
-      "base": 0,
-      "last_raw": 506,
-      "asset_id": 462225925,
-      "created_at": "2026-06-30T14:24:09Z",
-      "first_seen": "2026-07-01T10:30:03Z",
-      "updated": "2026-11-10T15:07:34Z"
-    },
-    "gamma-1.0.0/gamma-1.0.0-any.mhl": {
-      "lifetime": 534,
-      "base": 0,
-      "last_raw": 534,
-      "asset_id": 462225858,
-      "created_at": "2026-06-30T14:24:04Z",
-      "first_seen": "2026-07-01T10:30:03Z",
-      "updated": "2026-11-10T15:07:34Z"
-    },
-    "shared-1.0.0/shared-1.0.0-any.mhl": {
       "lifetime": 518,
       "base": 0,
       "last_raw": 518,
+      "asset_id": 462225925,
+      "created_at": "2026-06-30T14:24:09Z",
+      "first_seen": "2026-07-01T10:30:03Z",
+      "updated": "2026-11-11T14:38:17Z"
+    },
+    "gamma-1.0.0/gamma-1.0.0-any.mhl": {
+      "lifetime": 546,
+      "base": 0,
+      "last_raw": 546,
+      "asset_id": 462225858,
+      "created_at": "2026-06-30T14:24:04Z",
+      "first_seen": "2026-07-01T10:30:03Z",
+      "updated": "2026-11-11T14:38:17Z"
+    },
+    "shared-1.0.0/shared-1.0.0-any.mhl": {
+      "lifetime": 530,
+      "base": 0,
+      "last_raw": 530,
       "asset_id": 462226075,
       "created_at": "2026-06-30T14:24:23Z",
       "first_seen": "2026-07-01T10:30:03Z",
-      "updated": "2026-11-10T15:07:34Z"
+      "updated": "2026-11-11T14:38:17Z"
     },
     "with_test-1.0.0/with_test-1.0.0-any.mhl": {
-      "lifetime": 503,
+      "lifetime": 515,
       "base": 0,
-      "last_raw": 503,
+      "last_raw": 515,
       "asset_id": 462226522,
       "created_at": "2026-06-30T14:24:55Z",
       "first_seen": "2026-07-01T10:30:03Z",
-      "updated": "2026-11-10T15:07:34Z"
+      "updated": "2026-11-11T14:38:17Z"
     }
   }
 }
